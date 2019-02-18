@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpSession;
 
 /**
- * Created by thRShy on 2017/5/1.
+ * Created by CoolHaner on 2017/10/1.
  */
 @Controller
 @RequestMapping(value = "/user")
